@@ -3,6 +3,7 @@ Bruteforce lpb pisowifi admin login credentials
 
 # Requirements
 - Termux or Kali
+- Wordlist.txt 👉 https://weakpass.com/wordlists?type=small
 
 # Auto Install (Termux)
 ```
