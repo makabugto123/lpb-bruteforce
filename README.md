@@ -32,3 +32,5 @@ python3 lpb.py -u admin -P wordlist.txt -t 5 -c 10
 ```
 wget -O ~/lpb-bruteforce/wordlist.txt https://github.com/xiv3r/lpb-bruteforce/releases/download/wordlist/wordlist.txt
 ```
+# ⚠️ DISCLAIMERS
+`By downloading, installing, or using "LPB bruteforce", you agree that you are solely responsible for ensuring compliance with all applicable laws, regulations, and terms of service. You must obtain explicit, written permission from the owner of any network, system, or service before using this tool for testing or analysis. The creators, developers, and distributors of LPB bruteforce are not responsible for any misuse, unauthorized use, or consequences arising from the use of this tool.`
