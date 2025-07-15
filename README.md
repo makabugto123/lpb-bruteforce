@@ -23,3 +23,8 @@ sudo apt update && sudo apt install wget -y && clear && wget -qO- https://raw.gi
 ```
 python3 lpb.py -h
 ```
+
+# Wordlist
+```
+wget -O ~/lpb-bruteforce/wordlist.txt https://github.com/xiv3r/lpb-bruteforce/releases/download/wordlist/wordlist.txt
+```
