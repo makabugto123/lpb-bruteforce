@@ -11,12 +11,12 @@ Bruteforce lpb pisowifi admin login credentials
 
 # Auto Install (Termux)
 ```
-pkg update && pkg upgrade -y && pkg install wget -y && clear && wget -qO- https://raw.githubusercontent.com/xiv3r/lpb-bruteforce/refs/heads/main/install.sh | sh
+pkg update && pkg upgrade -y && pkg install wget -y && clear && wget -qO- https://raw.githubusercontent.com/xiv3r/lpb-bruteforce/refs/heads/main/install.sh | sh && cd lpb-bruteforce
 ```
 
 # Auto Install (Kali)
 ```
-sudo apt update && sudo apt install wget -y && clear && wget -qO- https://raw.githubusercontent.com/xiv3r/lpb-bruteforce/refs/heads/main/kali.sh | sudo sh
+sudo apt update && sudo apt install wget -y && clear && wget -qO- https://raw.githubusercontent.com/xiv3r/lpb-bruteforce/refs/heads/main/kali.sh | sudo sh && cd lpb-bruteforce 
 ```
 
 # Run
