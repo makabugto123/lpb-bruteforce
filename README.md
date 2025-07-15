@@ -1,5 +1,5 @@
-# lpb-bruteforce
-lpb pisowifi admin login bruteforce
+# LPB Bruteforcer
+Bruteforce lpb pisowifi admin login credentials
 
 # Requirements
 - Termux or Kali
