@@ -19,7 +19,7 @@ pkg update && pkg upgrade -y && pkg install wget -y && clear && wget -qO- https:
 sudo apt update && sudo apt install wget -y && clear && wget -qO- https://raw.githubusercontent.com/xiv3r/lpb-bruteforce/refs/heads/main/kali.sh | sudo sh && cd lpb-bruteforce 
 ```
 
-# Run
+# Usage
 ```
 python3 lpb.py -h
 ```
