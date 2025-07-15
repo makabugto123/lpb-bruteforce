@@ -23,6 +23,10 @@ sudo apt update && sudo apt install wget -y && clear && wget -qO- https://raw.gi
 ```
 python3 lpb.py -h
 ```
+E.g
+```
+python3 lpb.py -u admin -P wordlist.txt -t 5 -c 10
+```
 
 # Wordlist
 ```
