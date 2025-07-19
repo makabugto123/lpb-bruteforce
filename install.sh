@@ -1,6 +1,6 @@
 #!/bin/sh
 
-pkg install python python-pillow tesseract -y
+pkg install python-pip python python-pillow tesseract -y
 git clone https://github.com/xiv3r/lpb-bruteforce.git
 pip install -r lpb-bruteforce/depends.txt
 chmod 755 lpb-bruteforce/lpb.py
