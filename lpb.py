@@ -45,7 +45,8 @@ captcha_count = 0
 
 tries = 1
 
-
+banner = """
+"""
 
 def captcha_solver():
 
