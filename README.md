@@ -21,7 +21,8 @@ sudo apt update && sudo apt install wget -y && clear && wget -qO- https://raw.gi
 
 # Update
 ```
-rm * && git pull
+git fetch origin
+git reset --hard origin/main
 ```
 
 # Usage
