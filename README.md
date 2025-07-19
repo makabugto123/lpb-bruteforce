@@ -21,6 +21,9 @@ sudo apt update && sudo apt install wget -y && clear && wget -qO- https://raw.gi
 
 # Update
 ```
+cd lpb-bruteforce
+```
+```
 git fetch origin
 git reset --hard origin/main
 ```
