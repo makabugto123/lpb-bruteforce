@@ -2,7 +2,7 @@
 Bruteforce lpb pisowifi admin login credentials
 
 <div align="center">
-<img src="https://github.com/xiv3r/lpb-bruteforce/blob/main/image/lpbrute.png">
+<img src="https://github.com/xiv3r/lpb-bruteforce/blob/main/image/LPBbrute.png">
 </div>
 
 # Requirements
@@ -25,12 +25,13 @@ python3 lpb.py -h
 ```
 E.g
 ```
-python3 lpb.py -u admin -P wordlist.txt -t 5 -c 10
+python3 lpb.py -u admin -P wordlist.txt -t 10 -c 10
 ```
 
 # Wordlist
 ```
 wget -O ~/lpb-bruteforce/wordlist.txt https://github.com/xiv3r/lpb-bruteforce/releases/download/wordlist/wordlist.txt
 ```
+
 # ⚠️ DISCLAIMERS
 `By downloading, installing, or using "LPB bruteforce", you agree that you are solely responsible for ensuring compliance with all applicable laws, regulations, and terms of service. You must obtain explicit, written permission from the owner of any network, system, or service before using this tool for testing or analysis. The creators, developers, and distributors of LPB bruteforce are not responsible for any misuse, unauthorized use, or consequences arising from the use of this tool.`
